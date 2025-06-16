@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   carousel_slider: ^5.0.0
   flutter_rating_bar: ^4.0.1
+  device_preview: ^1.1.0  # 👈 Add this line
 
 dev_dependencies:
   flutter_test:
